@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="richTextBox5.Text" xml:space="preserve"><value>Biomasa to cała dostępna na ziemi materia organiczna. Energie można pozyskiwać z drewna, słomy, ziarna, roślin energetycznych, odpadów organicznych oraz olejów roślinnych. Energie z biomasy uzyskuje się w procesie spalania ale także z gazowania, fermentacji czy w innych reakcjach chemicznych. </value></data>
+  <data name="richTextBox7.Text" xml:space="preserve"><value>Przeciwieństwem odnawialnych źródeł są nieodnawialne źródła energii, czyli źródła, których zasoby odtwarzają się bardzo powoli bądź wcale, a są to ropa naftowa, węgiel i gaz ziemny. Według prognoz naukowców zasoby ropy naftowej wyczerpią się zaledwie 40 lat, gaz zużyjemy za 60 lat, a węgla wystarczy nam jeszcze na 200 lat korzystanie z energii nieodnawialnej przyczynia się do zatruwanie powietrza oraz globalnego ocieplenia.</value></data>
+  <data name="richTextBox4.Text" xml:space="preserve"><value>Energię ze słońca można wykorzystać na dwa sposoby. Zamieniając się na energię elektryczną za pomocą ogniw fotowoltaicznych oraz wykorzystując energię cieplną zbieraną przez kolektory słoneczne do produkcji ciepła. </value></data>
+  <data name="richTextBox1.Text" xml:space="preserve"><value>Energa to inaczej zdolność do działania. potrzebują jej zarówno ludzie jak i maszyny. Człowiek czerpie energię z jedzenia dzięki czemu może w pełni funkcjonować. Prąd daje nam światło może służyć do ogrzewania pomieszczeń lub wody uruchamia wszelkie urządzenia elektryczne. Do wytwarzania energii możemy wykorzystywać źródła odnawialne lub nieodnawialne. Odnawialne źródła energii to źródła energii, których wykorzystywanie nie szkodzi środowisku oraz ich odnawia się odbywa się w relatywnie krótkim czasie, takimi źródłami są słońce, wiatr, woda, energia wnętrza ziemi i biomasa. </value></data>
+  <data name="richTextBox6.Text" xml:space="preserve"><value>Energia geotermalna to energia wnętrza ziemi, zamknięta w gruntach, skałach i płynach wypełniających pory i szczeliny w skorupie ziemskiej. Energie te wykorzystuje się dzięki elektrowniom geotermalnych lub pompom ciepła.</value></data>
+  <data name="richTextBox2.Text" xml:space="preserve"><value>Energia wody wykorzystywana była dawniej w młynach wodnych dziś najczęściej korzystają z niej rzeczne elektrownie wodne. Na świecie wykorzystuje się energia wód morskich pływów fal i prądów morskich a także różnic temperatury w głębinach mórz. </value></data>
+  </root>

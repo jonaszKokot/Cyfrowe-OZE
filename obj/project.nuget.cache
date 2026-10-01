@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tNxmI3ADl7s=",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio 2019 Projects\\WPF C#\\Odnawialne Źródła Energii decovery\\Odnawialne-Źródła-Energii.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonasz\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\jonasz\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jonasz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jonasz\\.nuget\\packages\\system.resources.extensions\\8.0.0\\system.resources.extensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jonasz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

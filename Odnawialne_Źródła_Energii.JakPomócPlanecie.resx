@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="richTextBox5.Text" xml:space="preserve"><value>Najpopularniejszym z OZE jest fotowoltaika, czyli sposób na pozyskiwanie energii ze słońca. Polega ona na wykorzystaniu światła płynącego z naszej najbliższej gwiazdy. Możliwe jest to dzięki odpowiedniej instalacji zakładanej najczęściej na dachach lub na gruncie. Zintegrowany z panelami słonecznymi inwerter przerabia ową energię na prąd. Taki sam, jaki płynie w naszych gniazdkach. Dzięki temu nie tylko zmniejszamy koszty utrzymania gospodarstwa, ale również przyczyniamy się korzystnie do kondycji środowiska naturalnego naszej planety. Dlatego też na rynku pojawia się coraz więcej profesjonalnych dostawców tego rodzaju usług, którzy kompleksowo zajmują się swoimi klientami, pomagając nawet w zdobyciu dofinansowania, a także w pełnym doradztwie od podpisania umowy do montażu instalacji. Przeczytaj więcej informacji na temat pozyskiwania dofinansowania do fotowoltaiki.</value></data>
+  <data name="richTextBox7.Text" xml:space="preserve"><value>Dlatego też ważne jest nie tylko przystopowanie z owym zakupowym nienasyceniem i postawienie na rzeczy lepszej jakości, w mniejszej ilości oraz pomyślenie o naprawach tego, co popsute, zamiast pozbywania się, ale również sama segregacja śmieci, której zasady od stycznia roku 2020, uległy kolejnym modyfikacjom.</value></data>
+  <data name="richTextBox4.Text" xml:space="preserve"><value>Pod pojęciem „zielonej energii” kryją się wszelkie nowoczesne i ekologiczne sposoby na pozyskiwanie energii. Termin zastępczy stanowi skrót OZE, który wziął się z frazy „Odnawialne Źródła Energii”. Pod tym tajemniczo brzmiącymi nazwami kryje się wszystko to, co NIE JEST związane ze spalaniem paliw kopalnych, a co za tym idzie NIE MA negatywnego wpływu na środowisko naturalne naszej planety. Do tradycyjnych, przestarzałych metod możemy zaliczyć pozyskiwanie energii z węgla, ropy i gazu ziemnego. Te nowoczesne sposoby, to energia pochodząca ze słońca, wiatru i ruchu wody.</value></data>
+  <data name="richTextBox1.Text" xml:space="preserve"><value>Kondycja naszej planety jest czymś, co powinno obchodzić każdego z nas. W końcu to nasze wspólne dobro, a z drugiej strony miejsce, z którego nie mamy dokąd uciec. Od wielu lat specjaliści alarmują, że jeśli ludzkość nie zmieni swoich przyzwyczajeń, to możemy doprowadzić do katastrofy ekologicznej.</value></data>
+  <data name="richTextBox6.Text" xml:space="preserve"><value>Mamy coraz większe problemy z ilością produkowanych przez nas odpadów. Dlaczego tak się dzieje? Przede wszystkim dlatego, że nasze przyzwyczajenia nabierają rozpędu, bogacimy się jako społeczeństwo, ale z drugiej strony ciągle korzystamy z przestarzałej infrastruktury, pochodzącej jeszcze z czasów, gdy było nas mniej, a przemysł nie był tak rozbuchany jak w obecnej dekadzie. Po drugiej stronie stoją koncerny, które nie produkują już solidnych rzeczy na lata, bo przecież biznes rządzi się swoimi prawami. W tym zalewie bezwzględnej księgowości, gdzie długofalowe korzyści pozafinansowe przestały mieć większe znaczenie, rynek zachęca nas ciągle do tego byśmy kupowali więcej, jedli więcej i wydawali więcej. Mało kto jednak zastanawia się nad tym, co dalej?</value></data>
+  <data name="richTextBox3.Text" xml:space="preserve"><value>Niestety prawda jest taka, że sami przyczyniliśmy się do takiego stanu rzeczy. Stało się tak nie tylko poprzez bezkarne eksploatowanie złóż naturalnych, korzystaniu z przestarzałych sposobów wytwarzania prądu, które opiera się głównie na spalaniu paliw kopalnych, a w efekcie tego emisji gazów cieplarnianych do atmosfery. Produkujemy niewyobrażalne ilości dwutlenku węgla, pyłów i innych substancji zagrażających Ziemi oraz bezpośrednio naszemu zdrowiu, a nawet życiu. Przez całe lata bezrefleksyjnie korzystaliśmy z plastiku, nie zastanawiając się nawet co się z nim dzieje, gdy opuszcza naszą strefę.</value></data>
+  <data name="richTextBox2.Text" xml:space="preserve"><value>Zmieniający się klimat, rosnące zanieczyszczenie powietrza przestały być dla nas czymś odległym i czymś, o czym słyszymy jedynie z medialnych doniesień. Skutki postępujących zmian w przyrodzie obserwujemy każdego dnia: od coraz cieplejszych zim, przez coraz bardziej dotkliwe susze uniemożliwiające rolnikom uprawy, po pożary w Australii i inne groźne zjawiska, które realnie zagrażają wielu żyjącym gatunkom.</value></data>
+  </root>

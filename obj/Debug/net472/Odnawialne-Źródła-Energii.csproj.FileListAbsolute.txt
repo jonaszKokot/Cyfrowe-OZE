@@ -1,0 +1,29 @@
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne-Źródła-Energii.csproj.AssemblyReference.cache
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne_Źródła_Energii.AddNewItem.resources
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne_Źródła_Energii.AddNewSources.resources
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne_Źródła_Energii.DeleteRow.resources
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne_Źródła_Energii.DeleteRowSources.resources
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne_Źródła_Energii.EditRow.resources
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne_Źródła_Energii.EditRowSources.resources
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne_Źródła_Energii.Informacje.resources
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne_Źródła_Energii.JakPomócPlanecie.resources
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne_Źródła_Energii.Properties.Resources.resources
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne_Źródła_Energii.Start.resources
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne-Źródła-Energii.csproj.GenerateResource.cache
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\bin\Debug\net472\Odnawialne Źródła Energii.exe.config
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\bin\Debug\net472\Odnawialne Źródła Energii.exe
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\bin\Debug\net472\Odnawialne Źródła Energii.pdb
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\bin\Debug\net472\System.Buffers.dll
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\bin\Debug\net472\System.Memory.dll
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\bin\Debug\net472\System.Resources.Extensions.dll
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne-Źródła-Energii.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne Źródła Energii.exe.config
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne-Źródła-Energii.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne-Źródła-Energii.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawial.49C1B728.Up2Date
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne Źródła Energii.exe
+D:\Visual Studio 2019 Projects\WPF C#\Odnawialne Źródła Energii decovery\obj\Debug\net472\Odnawialne Źródła Energii.pdb
+D:\Visual Studio 2019 Projects\WPF C#\Projekt OZE\obj\Debug\net472\Odnawialne Źródła Energii.exe
+D:\Visual Studio 2019 Projects\WPF C#\Projekt OZE\obj\Debug\net472\Odnawialne Źródła Energii.pdb
